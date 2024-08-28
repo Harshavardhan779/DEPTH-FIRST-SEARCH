@@ -126,8 +126,9 @@ print("BFS Traversal Path:", traversed_path)
 ```
 
 <h3>Output:</h3>
+![3 1-fia](https://github.com/user-attachments/assets/a36058fe-31af-46fa-b068-d3f12eb0098f)
 
-![output](/3.1.png)
+
 <hr>
 <h3>Sample Input</h3>
 <hr>
